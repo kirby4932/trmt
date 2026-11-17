@@ -2,6 +2,11 @@
   <img src="https://cdn.modrinth.com/data/cached_images/177c11b808636328e9360ff476341a49e7af3167.png" alt="TRMT cover">
 </p>
 
+> **Unofficial Fabric 26.3 port** (branch `26.3-fabric`, based on upstream `26.1.x-fabric`) by kirby4932 for a private, non-commercial server.
+> Changes: build bumped to MC 26.3 / Fabric Loader 0.20.1 / Fabric API 0.166.2 / Loom 1.19.4 / Gradle 9.9.1; hoe/shovel handling moved to the data-driven
+> `BlockTransformer` + block tags; brewing recipes as `minecraft:brewing` JSON; loot tables updated to the 26.3 format; `openUri` → `ConfirmLinkScreen`.
+> Original work © milkucha, licensed CC-BY-NC-4.0. This adaptation is under the same licence. Not affiliated with or endorsed by the original author.
+
 # The Roads More Travelled [TRMT]
 
 A dynamic terrain mod that adds a gradual erosion system to the game, slowly transforming the routes you travel more often through into beautiful and realistic (yet still vanilla-friendly!) looking paths. Make your world feel more immersive by etching the story of your explorations onto the landscape.
